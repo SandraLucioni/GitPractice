@@ -10,7 +10,17 @@ Repository where we will learn about how to use GitHub
 #### Carpeta Instituto
 - Imagen añadida y centrada.
 - Git commit and push.
+<<<<<<< HEAD
 
 #### Carpeta Instituto
 - Añadido Enlace a _w3schools_ .
 - Git commit and push.
+=======
+#### Carpeta Casa
+- añadido fieldset y centrado.
+-Git commit
+>>>>>>> e6a4d92a65b722cb7a5ebef714bc582801989e96
+
+#### Carpeta Instituto
+- Conflicto al no hacer pull. **Resuelto**
+- Git commit and pull.

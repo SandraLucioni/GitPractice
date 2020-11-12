@@ -9,3 +9,9 @@ p, h1 {
     letter-spacing: 1px;
     text-align: center;
 }
+
+img {
+    border-radius: 8px;
+    height: 20%;
+    margin-left: 850px;
+  }

@@ -10,3 +10,6 @@ Repository where we will learn about how to use GitHub
 #### Carpeta Instituto
 - Imagen añadida y centrada.
 - Git commit and push.
+#### Carpeta Casa
+- añadido fieldset y centrado.
+-Git commit

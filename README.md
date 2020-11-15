@@ -16,8 +16,8 @@ Repository where we will learn about how to use GitHub
 - Git commit and push.
 #### Carpeta Casa
 - añadido fieldset y centrado.
--Git commit
+- Git commit
 
 #### Carpeta Instituto
-- Conflicto al no hacer pull. **Resuelto**
+- Conflicto al no hacer pull. **Resuelto haciendo "cat" + "nombre de fichero"**
 - Git commit and pull.

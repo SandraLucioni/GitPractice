@@ -66,3 +66,6 @@ Repository where we will learn about how to use GitHub
     ```
 
  _No hace falta hacer Git merge porque el VSC te lo facilita bastante con las opciones que aparecen encima de los cambios señalados en el código._
+
+ ##### last change
+ - <h5> cambio de fuente en la página.</h5>

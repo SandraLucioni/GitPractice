@@ -77,8 +77,20 @@ Repository where we will learn about how to use GitHub
 
 ![Imágen del código después de hacer pull posterior al error](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/conflicto_contenido_por_nopull.png)
 
-![Imágen del código con conflicto en el mismo párrafo](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/conflicto_cambio_en_la_misma_linea_pero_distinto_contenido.png.png)
+![Imágen del código con conflicto en el mismo párrafo](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/conflicto_cambio_en_la_misma_linea_pero_distinto_contenido.png)
 
  _No tengo necesidad de hacer de forma manual git merge porque al estar en la misma rama se hace automáticamnte. En el caso de que estuviera trabajando en ramas, sí. Por eso en las capturas aparece **git merge** en el terminal, porque al principio no entendía cuando debía usarlo._
   
  - Git add ., commit and push.
+
+--
+
+### Práctica p02-40, git tags
+ - En Carpeta Casa cree un tag V1.2.
+ - En Carpeta Casa abrí mi primer commit "Initial commit" donde perdí todo el trabajo realizado.
+ - En carpeta Instituto abrí el tag V1.2 donde recuperé el proyecto.
+
+
+ ![Imagen del código con el tag hecho](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/codigo_tag)
+
+ ![Imagen del código regresando al primer commit](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/git_push_after_tag)

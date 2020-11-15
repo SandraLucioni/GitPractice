@@ -91,6 +91,6 @@ Repository where we will learn about how to use GitHub
  - En carpeta Instituto abrí el tag V1.2 donde recuperé el proyecto.
 
 
- ![Imagen del código con el tag hecho](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/codigo_tag)
+ ![Imagen del código con el tag hecho](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/codigo_tag.png)
 
- ![Imagen del código regresando al primer commit](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/git_push_after_tag)
+ ![Imagen del código regresando al primer commit](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/git_push_after_tag.png)

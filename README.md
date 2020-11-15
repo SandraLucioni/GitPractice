@@ -77,7 +77,7 @@ Repository where we will learn about how to use GitHub
 
 ![Imágen del código después de hacer pull posterior al error](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/conflicto_contenido_por_nopull.png)
 
-![Imágen del código con conflicto en el mismo párrafo](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/conflicto_mismo_parrafo.png)
+![Imágen del código con conflicto en el mismo párrafo](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/conflicto_cambio_en_la_misma_linea_pero_distinto_contenido.png.png)
 
  _No tengo necesidad de hacer de forma manual git merge porque al estar en la misma rama se hace automáticamnte. En el caso de que estuviera trabajando en ramas, sí. Por eso en las capturas aparece **git merge** en el terminal, porque al principio no entendía cuando debía usarlo._
   

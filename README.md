@@ -89,3 +89,7 @@ Repository where we will learn about how to use GitHub
 #### Carpeta Casa
 - crear rama con nombre _firstbranch_.
 - Realizar cambios, hacer commit and push.
+
+#### Carpeta Instituto
+- Pull en **Carpeta Instituto** y cambio de rama.
+- Realizar cambios y subirlos.

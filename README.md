@@ -82,3 +82,10 @@ Repository where we will learn about how to use GitHub
  _No tengo necesidad de hacer de forma manual git merge porque al estar en la misma rama se hace automáticamnte. En el caso de que estuviera trabajando en ramas, sí. Por eso en las capturas aparece **git merge** en el terminal, porque al principio no entendía cuando debía usarlo._
   
  - Git add ., commit and push.
+
+
+### Práctica 02-50
+
+#### Carpeta Casa
+- crear rama con nombre _firstbranch_.
+- Realizar cambios, hacer commit and push.

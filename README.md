@@ -94,3 +94,9 @@ Repository where we will learn about how to use GitHub
  ![Imagen del código con el tag hecho](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/codigo_tag.png)
 
  ![Imagen del código regresando al primer commit](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/git_push_after_tag.png)
+
+### Práctica 02-50
+
+#### Carpeta Casa
+- crear rama con nombre _firstbranch_.
+- Realizar cambios, hacer commit and push.

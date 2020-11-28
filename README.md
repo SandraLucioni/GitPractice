@@ -111,4 +111,4 @@ Repository where we will learn about how to use GitHub
 ![Imagen del código haciendo el cambio de la branch a main](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/cambio_a_main.png)
 ![Merge](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/merge.png)
 ![Conflicto en merge](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/conflict_merge.png)
-![Lista commits](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/list_commits.png)
+![Lista commits](https://github.com/SandraLucioni/GitPractice/blob/main/imagenes/list-commits.png)
